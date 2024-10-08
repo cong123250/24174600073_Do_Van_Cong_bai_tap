@@ -1,4 +1,3 @@
-# 24174600073_Do_Van_Cong_bai_tap
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at 
 lacinia suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel 
 placerat risus. Sed tempor in ex vitae sodales. Donec et tempor orci. In pharetra viverra 
